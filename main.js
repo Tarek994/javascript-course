@@ -7,7 +7,7 @@
 ///////////////////////////////////////////////////
 
 // 2 - Where to put the code :
-// we have to put the script in the final the bode tag to make the browser read correctly the commands and apply the changes
+// best practice:  we have to put the script in the final the bode tag to make the browser read correctly the commands and apply the changes
 
 // OR we have to set  onload command to make sure the commands are work after load the page:
 
