@@ -18,4 +18,10 @@
  }
 */
 
-// 3 -
+// 3 - Out put to screen
+/*
+ window.alert("hello from the code camp");
+ document.write("hello page");
+ document.createElement("")
+ console.log("hello world")
+ */
