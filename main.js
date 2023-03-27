@@ -25,3 +25,17 @@
  document.createElement("")
  console.log("hello world")
  */
+
+ /*
+    4 - console: is from web API : application programming interface.
+    console.log("log");
+    console.error("Error");
+    console.table(["osama","ahmed","tarek"]);
+
+    styling from the console:
+    console.log("hello from js %cfile", "color:red; font-size:30px ");
+
+    - if we want to style some text in the console log we just have to add the style next to the text,
+    - if want customize the style for a word in the text we just add this symbol before the word : %c
+
+ */
