@@ -39,3 +39,8 @@
     - if want customize the style for a word in the text we just add this symbol before the word : %c
 
  */
+
+/*
+ What Is ECMAScript :
+ Ecma International is an industry association dedicated to the standardization of information and communication systems.
+*/
