@@ -22,4 +22,7 @@
         - loosely typed vs strongly typed
 
 */
-
+/*
+ 3 - Identifiers Name Conventions And Rules.
+ 
+*/
