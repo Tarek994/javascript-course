@@ -24,5 +24,28 @@
 */
 /*
  3 - Identifiers Name Conventions And Rules.
- 
+
+*/
+
+
+/*
+ 4 - var, let, const compare:
+
+ var :
+ -- redeclare(yes)
+ -- access before declare(undefined)
+ -- variable scope drama [added to window]()
+ -- block or function scope
+
+ let 
+ -- redeclare(no => error)
+ -- access before declare(error)
+ -- variable scope drama()
+ -- block or function scope
+
+ const 
+ -- redeclare(no => error)
+ -- access before declare(error)
+ -- variable scope drama()
+ -- block or function scope
 */
