@@ -49,3 +49,9 @@
  -- variable scope drama()
  -- block or function scope
 */
+
+/*
+ 5 - String Syntax And Character Escape Sequences.
+
+
+ */
