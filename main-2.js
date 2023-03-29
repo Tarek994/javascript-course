@@ -66,3 +66,19 @@
 
 
 */
+
+/*
+ 7 - Template Literals Template Strings.
+ let title = "elzero";
+ let desc = "elzero web school";
+
+ let markUp = `
+ <div className= "card">
+  <div className= "child">
+  <h2>${title} </h2>
+  <p>${desc} </p>
+ </div>
+ </div>
+ `;
+ document.write(markUp);
+*/
