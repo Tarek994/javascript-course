@@ -55,3 +55,14 @@
 
 
  */
+
+/*
+ 6 - Concatenation.
+ let a = "we love";
+ let b = "javascript";
+
+ document.write(a + "" + b); =>
+  document.write(a,b);
+
+
+*/
