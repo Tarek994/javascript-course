@@ -87,3 +87,16 @@
  8 - Variable And Concatenation Challenge.
  
 */
+
+/*
+ 9 - arithmetic operators.
+ + addition
+ - subtraction
+ * multiplication
+ / division
+ ** exponentiation (ES7)
+ % modulus (division remainder)
+ ++ increment [ post / Pre]
+ -- decrement [ post / pre]
+ 
+*/
