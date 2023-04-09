@@ -26,7 +26,7 @@
  console.log("hello world")
  */
 
- /*
+/*
     4 - console: is from web API : application programming interface.
     console.log("log");
     console.error("Error");
