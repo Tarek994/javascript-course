@@ -27,7 +27,6 @@
 
 */
 
-
 /*
  4 - var, let, const compare:
 
