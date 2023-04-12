@@ -46,8 +46,8 @@
      console.log (--c + +b + --a * +b++ - +b * a + --a - +true)
 
     Challenge 2
-    
-     let d = "100";
+
+     let d = "-100";
      let e = "20";
      let f = 30;
      let g = true;
