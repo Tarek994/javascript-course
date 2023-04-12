@@ -45,5 +45,16 @@
      console.log (++a + -b + +c++ - -a++ + +a)
      console.log (--c + +b + --a * +b++ - +b * a + --a - +true)
 
+    Challenge 2
+    
+     let d = "100";
+     let e = "20";
+     let f = 30;
+     let g = true;
 
+     Only Use Variables Value
+     Do Not Use Variables Twice
+
+     console.log(); // 2000
+     console.log(); // 173
 */
