@@ -58,3 +58,20 @@
      console.log(); // 2000
      console.log(); // 173
 */
+
+/*
+14 - Number
+
+  - Double Precision // console.log(1000000);
+  - Syntactic Sugar "_" // console.log(1_000_000);
+  - e // console.log(1e6);
+  - ** // console.log(10 ** 10);
+  - With Decimal // console.log(10 * 10 * 10 * 10 * 10 * 10);
+  - Number + BigInt // console.log(1000000.0);
+  - Number Min Value 
+  - Number Max Value
+
+  console.log(Number.MIN_VALUE);
+console.log(Number.MAX_VALUE);
+console.log(Number.MAX_SAFE_INTEGER);
+*/
